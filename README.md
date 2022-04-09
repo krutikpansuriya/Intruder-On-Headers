@@ -6,7 +6,7 @@ A Burp extension, which automatically add markers to headers+parameters+URI+HTTP
 * Download [Intruder-on-Headers.jar](https://github.com/krutikpansuriya/Intruder-On-Header/blob/main/Intruder-on-Headers.jar)
 * Open BurpSuite and navigate to "Extender" and click on "Add" button.
 
-![1](https://user-images.githubusercontent.com/37470559/162575190-4ccedb52-8617-43e3-acd0-aec827900688.png)
+![1](https://user-images.githubusercontent.com/37470559/162575625-a174b04c-d058-465f-99f5-b52ee2333c4c.png)
 
 * CLick on "Select File", select the downloaded JAR file and click on "Next".
 
@@ -23,15 +23,13 @@ A Burp extension, which automatically add markers to headers+parameters+URI+HTTP
 
 ### Headers + Paramters
 
-![HP](https://user-images.githubusercontent.com/37470559/162575462-e0c75ab5-92a7-4b66-a825-24b1c6e9b8e7.png)
-
+![HP](https://user-images.githubusercontent.com/37470559/162575654-d49e41d0-23bc-44b2-86e8-c7bffb6a7bef.png)
 
 ### Headers + Parameters + URL + HTTP_Method
 
-![HPUM](https://user-images.githubusercontent.com/37470559/162575470-a1d6eafd-8159-4c84-9ac0-20d3e190cab7.png)
-
+![HPUM](https://user-images.githubusercontent.com/37470559/162575646-1f1292f9-2b7a-4018-b628-301a427301ce.png)
 
 ### Only Headers
 
-![H](https://user-images.githubusercontent.com/37470559/162575475-dbec656c-b3e5-44d6-9026-94f59ce3b80f.png)
+![H](https://user-images.githubusercontent.com/37470559/162575637-c25d5b95-c600-40fc-8ccb-9c52caaed6bd.png)
 
