@@ -1,5 +1,5 @@
 # Intruder-On-Header
-A Burp extension, which automatically add markers to headers+parameters+URI+HTTP_Method while sending it to the Intruder.
+A Burp extension, which automatically add markers to <strong><em>Headers+Parameters+URL+HTTP_Method</strong></em> while sending it to the Intruder.
 
 ## Installation
 
